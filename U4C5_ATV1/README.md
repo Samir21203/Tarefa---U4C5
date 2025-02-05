@@ -22,7 +22,7 @@ Este projeto implementa um semáforo utilizando o microcontrolador **Raspberry P
 ## 📥 Instalação e Execução
 1. Clone o repositório:
    ```sh
-   git clone <https://github.com/Samir21203/Tarefa---U4C5.git>
+   git clone https://github.com/Samir21203/Tarefa---U4C5.git
    cd Tarefa---U4C5
    cd U4C5_ATV1
    ```
