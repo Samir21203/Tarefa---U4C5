@@ -25,7 +25,7 @@ Este projeto implementa um sistema de temporização para o acionamento de LEDs 
 
 ## Instalação e Uso
 1. ```sh
-   git clone <https://github.com/Samir21203/Tarefa---U4C5.git>
+   git clone https://github.com/Samir21203/Tarefa---U4C5.git
    cd Tarefa---U4C5
    cd U4C5_ATV2
    ```
