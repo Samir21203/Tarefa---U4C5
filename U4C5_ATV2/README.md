@@ -24,13 +24,16 @@ Este projeto implementa um sistema de temporização para o acionamento de LEDs 
 - Simulador Wokwi integrado ao VS Code
 
 ## Instalação e Uso
-1. Clone o repositório:
-   ```sh
-   git clone <URL_DO_REPOSITORIO>
+1. ```sh
+   git clone <https://github.com/Samir21203/Tarefa---U4C5.git>
+   cd Tarefa---U4C5
+   cd U4C5_ATV2
    ```
+2. Importe o projeto com o plugin *Raspberry Pi Pico Project* para VS Code.
+3. Compile e execute o simulador Wokwi (se estiver testando virtualmente).
 2. Compile o código com o Pico SDK.
-3. Carregue o binário no Raspberry Pi Pico W.
-4. Execute a simulação no Wokwi (caso esteja utilizando a ferramenta).
+3. Carregue o binário no BitDogLab (Se estiver utilizando).
+4. Execute a simulação no Wokwi.
 
 ## Código-Fonte Principal
 O código principal configura os pinos dos LEDs e do botão, além de utilizar `add_alarm_in_ms()` para gerenciar os atrasos entre as mudanças de estado dos LEDs.

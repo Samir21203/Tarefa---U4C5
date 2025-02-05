@@ -22,16 +22,14 @@ Este projeto implementa um semáforo utilizando o microcontrolador **Raspberry P
 ## 📥 Instalação e Execução
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/semaforo-pico.git
-   cd semaforo-pico
+   git clone <https://github.com/Samir21203/Tarefa---U4C5.git>
+   cd Tarefa---U4C5
+   cd U4C5_ATV1
    ```
-2. Compile e carregue o código no Raspberry Pi Pico W:
-   ```sh
-   mkdir build && cd build
-   cmake ..
-   make
-   ```
-3. Execute o simulador Wokwi (se estiver testando virtualmente).
+2. Importe o projeto com o plugin *Raspberry Pi Pico Project* para VS Code.
+3. Compile o código com o Pico SDK
+4. Carregue o binário no BitDogLab (Se estiver utilizando)
+5. Execute o simulador Wokwi (se estiver testando virtualmente).
 
 ## 📌 Pinos Utilizados
 | Componente  | GPIO |
